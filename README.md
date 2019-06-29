@@ -1,4 +1,4 @@
 # certificates
 Training Certificates System
 
-http://tomcat.alkathirikhalid.com/certificates/
+aws ec2: http://tomcat.alkathirikhalid.com/certificates/
