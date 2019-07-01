@@ -28,8 +28,7 @@
         </form>
 
         <p>In the form below, enter a student name. All matching possible names are displayed below
-            the form, then click on one of the selections to see student certification details, a student might have multiple certification.</p>
-<!--        
+            the form, then click on one of the selections to see student certification details, a student might have multiple certification.</p>        
         <form name="autofillform" action="autocomplete">
             <table border="0" cellpadding="5"> 
                 <tbody>
@@ -43,13 +42,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td id="auto-row" colspan="2">
-                            <table id="complete-table" class="popupBox" />
-                        </td>
-                    </tr>
+                <table id="complete-table" />
+                </tr>
                 </tbody>
             </table>
-        </form>
--->        
+        </form>       
     </body>
 </html>
